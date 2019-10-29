@@ -33,4 +33,5 @@ function calculate(operation, firstNum, secondNum) {
   }
 }
 
+// console.log(calculate('-', 2, 2))
 module.exports = {calculate};
